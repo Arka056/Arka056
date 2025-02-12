@@ -7,10 +7,12 @@
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💡 **Product Management Application** built with Spring Boot and React
+- 
+- 💡 **Book Store Management** built with Spring Boot, HTML, CSS, Javascript and Thymeleaf
 
 - 👨‍💻 All of my details are available at [My Linktree](https://linktr.ee/arkaxyz_?utm_source=linktree_profile_share&ltsid=946b3c31-3fb4-47b5-91e5-b2e3e3d03f43)
 
-- 💬 Ask me about **Spring Boot, Java**
+- 💬 Ask me about **Spring Boot, Java, HTML, CSS, JS**
 
 - 👨‍�‍� How to reach me **[LinkedIn](https://www.linkedin.com/in/arka-kundu-03b2a226b/)**
 
@@ -44,6 +46,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="40" height="40"/>
+
+
 </p>
 
 <p align="left">
